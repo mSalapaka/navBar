@@ -5,6 +5,11 @@
     color: whitesmoke;
     padding:6px;
     margin:0;
+    position:fixed; /* Required to make navbar remain at top always */
+    width:100%;
+    left:0px;
+    top:0px;
+    right: 0px;
 }
 .headerP1{
     display: grid;
@@ -25,6 +30,7 @@
 }
 .bars{
     display:none;
+    padding-right: 15px;
 }
 
 #navLinks{
@@ -32,6 +38,14 @@
     grid-template-columns: repeat(3,1fr);/* change to accommodate more navlinks, 3 with  replace by number of navlinks */
     padding:0px;
     margin:0;
+   
+}
+.linkStyle{
+    text-decoration: none;
+    color:rgb(244, 236, 236);
+}
+.linkStyle:hover{
+    color:white;
 }
 #navLinks div{
 padding:0px;

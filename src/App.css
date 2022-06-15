@@ -3,16 +3,6 @@
     padding: 0rem;
     font-family: "Roboto";
     font-size: large;
-    /* display:grid;
-    grid-template-rows: 6em 1fr;
-    grid-template-areas:
-    'header'
-    'mainComponent';
-    color: #222222 */
+    display:grid;
+    grid-template-columns:1fr;
 }
-/* .header{
-    grid-area: header;
-}
-.mainComponent{
-    grid-area:mainComponent;
-} */
