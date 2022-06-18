@@ -1,7 +1,6 @@
 // Creates a AccordionItem using title and content which is toggleable
 import { useState } from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-<FontAwesomeIcon icon={faChevronDown, faChevronUp} className="bars" />
 import "./AccordionItem.css"
 import PropTypes from "prop-types";
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
