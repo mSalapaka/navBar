@@ -1,0 +1,37 @@
+
+.accordionItem{
+    display: grid;
+    grid-template-rows: auto;
+    border-bottom:solid;
+    border-width:1px;
+    border-color: dimgray;
+    background-color: rgb(252, 248, 248);
+    
+}
+.accordionTitleBar{
+    display: grid;
+    grid-template-columns: 1fr 2em;
+    align-items: center;
+  
+    /* border: rgb(38, 37, 36);
+    border-style:solid;
+    border-width:1px; */
+
+}
+.accordionTitle{
+    display: flex;
+    justify-content: start;
+    padding:5px;
+}
+.accordionContent{
+    display: flex;
+    justify-content: start;
+    padding: 5px;
+}
+.accorrdionTitleBarToggle{
+    display: flex;
+    justify-content: end;
+    padding:10px;
+   
+
+}

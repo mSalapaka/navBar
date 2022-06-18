@@ -1,9 +1,13 @@
 #content{
     display:grid;
     grid-template-rows: 1fr;
+    gap:0px;
+
 }
-#content div{
-    padding-top:30px; /* required; else content will disappear under fixed position navbar */
+/* Each immediate child div has the padding as below. */
+#content > div{
+    padding-top:50px; /* required; else content will disappear under fixed position navbar */
     padding-right:10px;
     padding-left:10px;
+
 }

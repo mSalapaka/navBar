@@ -5,7 +5,7 @@
     color: whitesmoke;
     padding:6px;
     margin:0;
-    position:fixed; /* Required to make navbar remain at top always */
+    position:fixed; /* Required to make navbar remain at top always; this causes content to hide behind navbar; so enough padding needed on content divs*/
     width:100%;
     left:0px;
     top:0px;

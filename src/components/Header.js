@@ -1,7 +1,6 @@
 import { HashRouter} from "react-router-dom";
-import { HashLink, NavHashLink } from "react-router-hash-link";
+import { HashLink } from "react-router-hash-link";
 import "./Header.css";
-import "@fontsource/roboto";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 export const Header = () => {
@@ -28,10 +27,10 @@ export const Header = () => {
 
         <div id="navLinks">
           <div>
-            <NavHashLink smooth to="#Comp1" className="linkStyle">
+            <HashLink smooth to="#AccordionComp" className="linkStyle">
               {/* id here has to agree with the id used in id in Main.js  */}
               <span>Navlink1</span>
-            </NavHashLink>
+            </HashLink>
           </div>
           <div>
             <HashLink smooth to="#Comp2" className="linkStyle">

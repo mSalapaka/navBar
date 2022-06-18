@@ -1,0 +1,9 @@
+.accordion{
+    display:grid;
+   /* grid-template-columns:minmax(1fr,960px); */
+   max-width: none; /* use this to set max width of the accordion */
+}
+.accordionHeader{
+    font-weight: bold;
+    font-size: larger;
+}
