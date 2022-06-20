@@ -1,0 +1,16 @@
+.infoTableWithImgItem{
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    align-items:center;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+}
+.nameItem{
+    font-size: larger;
+}
+.imageStyle{
+    width:80px;
+    border-radius: 50%;
+    padding-right: 10px;
+
+}

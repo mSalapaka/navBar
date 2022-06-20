@@ -33,7 +33,7 @@ export const Header = () => {
             </HashLink>
           </div>
           <div>
-            <HashLink smooth to="#Comp2" className="linkStyle">
+            <HashLink smooth to="#InfoTableWithImgComp" className="linkStyle">
               <span>Navlink2</span>
             </HashLink>
           </div>
