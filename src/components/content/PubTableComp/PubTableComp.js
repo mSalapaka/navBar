@@ -5,8 +5,8 @@ let dataSrcString="./data/publications"
 
 
   return (
-    <>
+    <div id="PubTableComp">
      <PubTable jsonArrayData={pubsJsonArray} dataSrcString={dataSrcString} pubTableTitle="Publications"> </PubTable>
-    </>
+    </div>
   );
 };

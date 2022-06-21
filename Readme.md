@@ -74,6 +74,12 @@ JSX is now independent of React. Thus for jsx react need not be imported. The ba
 Note that the App.js file and the index.js file no longer need to import React simply for implementing jsx
 
 using new "@babel/eslint-parser" in eslintrc.js
+added url-loader and modified webpack for loading images
+
+On this commit
+---------------------
+Added scrollOffset functionality to hashlinks in header.
+PubTableComp is now added as a hashlink
 
 
 

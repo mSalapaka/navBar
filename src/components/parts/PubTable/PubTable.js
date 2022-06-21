@@ -13,8 +13,9 @@ export const PubTable = ({ jsonArrayData, dataSrcString, pubTableTitle }) => {
     setSearchString(e.target.value);
     console.log(searchString);
     setFilteredJsonArrayData(jsonArrayData.filter((jsonObj) => {
-      return Object.values(jsonObj).toString().includes(searchString);
-  }))};
+      return Object.values(jsonObj).toString().toLowerCase().includes(searchString.toLowerCase());
+  }))
+};
   
 
   const handleChange =(e)=>{
@@ -36,7 +37,7 @@ export const PubTable = ({ jsonArrayData, dataSrcString, pubTableTitle }) => {
                 <label htmlFor="searchString"></label>
                 <input id="searchString" type="text" placeholder="search" value={searchString} onChange={handleChange} />
               </div>
-              <button type="submit" >Submit</button>
+              {/* <button type="submit" >Submit</button> */}
             </form>
             
           </div>
@@ -51,6 +52,8 @@ export const PubTable = ({ jsonArrayData, dataSrcString, pubTableTitle }) => {
               dataSrcString={dataSrcString}
             ></PubTableItem>
           ))}
+          {filteredJsonArrayData==[] && <div> No Results</div>}
+          
         </div>
       </div>
     </>

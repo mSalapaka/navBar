@@ -35,7 +35,7 @@
 
 #navLinks{
     display:grid;
-    grid-template-columns: repeat(3,1fr);/* change to accommodate more navlinks, 3 with  replace by number of navlinks */
+    grid-template-columns: repeat(4,1fr);/* change to accommodate more navlinks, 3 with  replace by number of navlinks */
     padding:0px;
     margin:0;
    

@@ -4,6 +4,13 @@ import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons";
 export const Header = () => {
+  const scrollWithOffset = (el) => {
+    const yCoordinate = el.getBoundingClientRect().top + window.pageYOffset;
+    const yOffset = -100; 
+    window.scrollTo({ top: yCoordinate + yOffset, behavior: 'smooth' }); 
+}
+
+
   return (
     <HashRouter>
       <div id="navbar">
@@ -27,24 +34,29 @@ export const Header = () => {
 
         <div id="navLinks">
           <div>
-            <HashLink smooth to="#AccordionComp" className="linkStyle">
+            <HashLink smooth to="#AccordionComp" scroll={scrollWithOffset} className="linkStyle">
               {/* id here has to agree with the id used in id in Main.js  */}
-              <span>Navlink1</span>
+              <span>Accordion</span>
             </HashLink>
           </div>
           <div>
             <HashLink smooth to="#InfoTableWithImgComp" className="linkStyle">
-              <span>Navlink2</span>
+              <span>InfoTableWithImg</span>
             </HashLink>
           </div>
           <div>
-            <HashLink smooth to="#Comp3" className="linkStyle">
-              <span>Navlink3</span>
+            <HashLink smooth to="#Comp3" scroll={scrollWithOffset} className="linkStyle">
+              <span>DropDown</span>
             </HashLink>
             <ul>
-              <li>  <HashLink smooth to="#Comp3Current" className="linkStyle"> Current </HashLink></li>
-              <li> <HashLink smooth to="#Comp3Alumni" className="linkStyle"> Alumni</HashLink> </li>
+              <li>  <HashLink smooth to="#Comp3Current" scroll={scrollWithOffset}  className="linkStyle"> Current </HashLink></li>
+              <li> <HashLink smooth to="#Comp3Alumni" scroll={scrollWithOffset} className="linkStyle"> Alumni</HashLink> </li>
             </ul>
+          </div>
+          <div>
+            <HashLink smooth to="#PubTableComp" scroll={scrollWithOffset} className="linkStyle">
+              <span>PubTable</span>
+            </HashLink>
           </div>
         </div>
       </div>
