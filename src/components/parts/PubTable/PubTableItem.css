@@ -1,0 +1,17 @@
+.pubTableItem{
+    display: grid;
+    grid-template-columns: 1fr 60px 60px;
+    align-items:center;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+}
+.pubTableItemYear{
+    font-size: larger;
+}
+.oddPubItem{
+background-color: rgb(212, 197, 197);
+}
+.pubTableItemLink{
+  
+
+}

@@ -1,0 +1,16 @@
+.pubTableHeader{
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    border-bottom-style: solid;
+    padding:10px
+    
+
+}
+.pubTableTitle{
+    font-weight: bold;
+    font-size: 25px;
+}
+.pubTableSearchFilter{
+    font-size: 25px;
+
+}

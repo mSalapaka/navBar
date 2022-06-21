@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<file xmlns="http://bibtexml.sf.net/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:date>2013-02-26T23:26:54-0600</dc:date>
+      <dc:format>text/xml</dc:format>
+      <dc:identifier>urn:uuid:2871aa3d-d274-44b3-bd15-1200d8d8ee99</dc:identifier>
+  </metadata>
+  <entry id="h2l1zerointerpolation">
+      <article>
+         <author>Salapaka, M.V.</author>
+         <author>Khammash, M.</author>
+         <author>Dahleh, M.</author>
+         <journal>Decision and Control, 1997., Proceedings of the 36th IEEE Conference on</journal>
+         <title>Solution of MIMO H2/l1 problem without zero interpolation</title>
+         <year>1997</year>
+         <month>dec</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/H2L1ZeroInterpolation.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>2</volume>
+         <number/>
+         <pages>1546-1551vol.2</pages>
+         <abstract>In this paper we present a methodology to obtain converging lower and upper bounds to multiple objective problems which incorporate the H 2 performance measure and time domain criteria. This methodology avoids many of the problems which are present in methods which employ zero interpolation techniques to characterize achievable closed loop maps</abstract>
+      </article>
+  </entry>
+  <entry id="chaosafm">
+      <article>
+         <author>Ashhab, M.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Dahleh, M.</author>
+         <author>Mezic, I.</author>
+         <journal>American Control Conference, 1997. Proceedings of the 1997</journal>
+         <title>Control of chaos in atomic force microscopes</title>
+         <year>1997</year>
+         <month>jun</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/ChaosAFM.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>1</volume>
+         <number/>
+         <pages>196-202vol.1</pages>
+         <abstract>We study the dynamical behaviour of a microcantilever-sample system that forms the basis for the operation of atomic force microscopes. We model the micro-cantilever by a single mode approximation and the interaction between the sample and cantilever by a van der Waals potential. The cantilever is vibrated by a sinusoidal input, and its deflection is detected optically. We analyze the forced dynamics using the Melnikov method, which reveals the region in the space of physical parameters where chaotic motion is possible. In addition, using a proportional and derivative controller we compute the Melnikov function in terms of the parameters of the controller. Using this relation it is possible to design controllers that will remove the possibility of chaos</abstract>
+      </article>
+  </entry>
+  <entry id="h2andl1performance">
+      <article>
+         <author>Salapaka, M.V.</author>
+         <author>Dahleh, M.</author>
+         <author>Vicino, A.</author>
+         <author>Tesi, A.</author>
+         <journal>Decision and Control, 1996., Proceedings of the 35th IEEE</journal>
+         <title>Nominal H2 performance and l1 robust performance</title>
+         <year>1996</year>
+         <month>dec</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/H2andL1Performance.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>4</volume>
+         <number/>
+         <pages>4034-4039vol.4</pages>
+         <abstract>We formulate a problem which incorporates nominal H2 performance and robust l1 performance in the presence of a scalar perturbation. It is shown that this problem can be solved via a sequence of finite dimensional quadratic programming problems</abstract>
+      </article>
+  </entry>
+  <entry id="h2andl1norms">
+      <article>
+         <author>Salapaka, M.V.</author>
+         <author>Dahleh, M.</author>
+         <author>Voulgaris, P.</author>
+         <journal>Decision and Control, 1995., Proceedings of the 34th IEEE Conference on</journal>
+         <title>MIMO optimal control design: the interplay of the H2 and the l1 norms</title>
+         <year>1995</year>
+         <month>dec</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/H2andL1Norms.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>4</volume>
+         <number/>
+         <pages>3682-3687vol.4</pages>
+         <abstract>We consider the problem of minimizing the H2 performance of the closed loop subject to a l1 constraint. The development is devoted to multi-input multi-output (MIMO) systems. It is shown that approximating solutions to the optimal within any a priori given tolerance can be obtained via a finite dimensional quadratic optimization problem whose dimension is known a priori</abstract>
+      </article>
+  </entry>
+  <entry id="compositeperformancemeasure">
+      <article>
+         <author>Salapaka, M.</author>
+         <author>Voulgaris, P.</author>
+         <author>Dahleh, M.</author>
+         <affiliation>University of California Mechanical and Environmental Engineering Department Santa Barbara California Santa Barbara California</affiliation>
+         <title>Controller design to optimize a composite performance measure</title>
+         <journal>Journal of Optimization Theory and Applications</journal>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/CompositePerformanceMeasure.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>Springer Netherlands</publisher>
+         <pages>91-113</pages>
+         <volume>91</volume>
+         <issue>1</issue>
+         <abstract>This paper studies a mixed objective problem of minimizing a composite measure of the l1, l2 , and l-infinity norms together with the l inifinty -norm of the step response of the closed loop. This performance index can be used to generate Pareto-optimal solutions with respect to the individual measures. The problem is analyzed for discrete-time, single-input single-output (SISO), linear time-invariant systems. It is shown via Lagrange duality theory that the problem can be reduced to a convex optimization problem with a priori known dimension. In addition, continuity of the unique optimal solution with respect to changes in the coefficients of the linear combination that defines the performance measure is estabilished.</abstract>
+         <year>1996</year>
+      </article>
+  </entry>
+  <entry id="mixedobjectivecontrolsynthesis">
+      <article>
+         <author>Salapaka, M.V.</author>
+         <author>Dahleh, M.</author>
+         <author>Voulgaris, P.</author>
+         <journal>American Control Conference, 1995. Proceedings of the</journal>
+         <title>Mixed objective control synthesis: optimal l1/ H2 control</title>
+         <year>1995</year>
+         <month>jun</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/MixedObjectiveControlSynthesis.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>2</volume>
+         <number/>
+         <pages>1438-1442vol.2</pages>
+         <abstract>In this paper we consider the problem of minimizing the l1 norm of the transfer function from the exogenous input to the regulated output over all internally stabilizing controllers while keeping its H2 norm under a specified level. The problem is analysed for the discrete-time, SISO, linear time invariant case. It is shown that an optimal solution always exists. Duality theory is employed to show that any optimal solution is a finite impulse response sequence and an a priori bound is given on its length. The problem is reduced to a finite dimensional convex optimization problem with an a priori determined dimension. Finally it is shown that, in the region of interest of the H2 constraint level the optimal is unique and continuous with respect to changes in the constraint level</abstract>
+      </article>
+  </entry>
+  <entry id="tfafm">
+      <article>
+         <author>Sahoo, D.R.</author>
+         <author>Agarwal, P.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2007. ACC '07</journal>
+         <title>Transient Force Atomic Force Microscopy: A New Nano-Interrogation Method</title>
+         <year>2007</year>
+         <month>july</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/TFAFM.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2135-2140</pages>
+         <abstract>Atomic force microscopes (AFMs) are the primary investigation systems at the nanoscale. In existing dynamic mode AFM methods steady-state response of microcantilever is monitored for imaging tip-surface interaction forces at the nano-scale. In these methods microcantilevers with high quality factor are employed for high force sensitivity but at the cost of speed due to dependence on steady-state signals. In this paper, a novel methodology for fast interrogation of material that exploits the transient part of the cantilever response is presented. This method effectively addresses the perceived fundamental limitation on bandwidth due to high quality factors. Analysis and experiments show that the method results in significant increase in bandwidth and resolution as compared to the steady-state-based methods. This paper demonstrates the effectiveness of a systems perspective to the field of imaging at the nano-scale and for the first time reports real-time imaging at the nanoscale using the transient method with scan speed 40 times faster than conventional methods.</abstract>
+      </article>
+  </entry>
+  <entry id="dualbeamopticaltweezers">
+      <article>
+         <author>Sehgal, H.</author>
+         <author>Aggarwal, T.</author>
+         <author>Salapaka, M.</author>
+         <journal>American Control Conference, 2007. ACC '07</journal>
+         <title>Characterization of Dual Beam Optical Tweezers System Using a Novel Detection Approach</title>
+         <year>2007</year>
+         <month>july</month>
+         <catid>optical tweezers</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/DualBeamOpticalTweezers.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>4234-4239</pages>
+         <abstract>Characterization of optical tweezer system involves determining the stiffness coefficient of the trap and the range in which it behaves as a linear spring. This is often done by calculating the power spectrum of the fluctuations of the trapped bead observed on a photodetector. The detection process entails observing the deflection of either the same trapping beam or a different laser beam of very low power. We present a new approach where a laser beam from a source is split into s- and p-polarizations where s-polarization is used for trapping and p-polarization for detection. We also analyze and experimentally verify the effect of the detection beam on the trap dynamics. We further explain how to incorporate the effect of a strong detection beam, capable of trapping beads, in the photodetector calibration in a dual beam trap scenario. The novel detection method and the associated modelling sets the stage for the application of modern control approach.</abstract>
+      </article>
+  </entry>
+  <entry id="channelmodelingnaveen">
+      <article>
+         <author>Kumar, N.</author>
+         <author>Agarwal, P.</author>
+         <author>Ramamoorthy, A.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>Information Sciences and Systems, 2008. CISS 2008. 42nd Annual Conference on</journal>
+         <title>Channel modeling and detector design for dynamic mode high density probe storage</title>
+         <year>2008</year>
+         <month>march</month>
+         <catid>afm,theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/ChannelModelingNaveen.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1273-1278</pages>
+         <abstract>Probe based data storage is a promising solution for satisfying the demand for ultra-high capacity storage devices. One of the main problems with probe storage devices is the wear of tip and media over the lifetime of the device. In this paper we present the dynamic mode operation of the cantilever probe that partially addresses the problems of media/tip wear. A communication system model which incorporates modeling of the cantilever interaction with media is proposed for the system. We demonstrate that by using a controllable canonical state space representation, the entire system can be visualized as a channel with a single input which is the tip-media interaction force. A hypothesis testing formulation for bit-by-bit detection is developed. We present three different classes of detectors for this hypothesis test. In particular, we consider two different cases where statistics on the tip-medium interaction are available and not available. Simulation results are presented for all these detectors and their relative merits are explored.</abstract>
+      </article>
+  </entry>
+  <entry id="electrostaticallyactuatedmicrocantilever">
+      <article>
+         <author>Agarwal, P.</author>
+         <author>Sahoo, D.</author>
+         <author>Sebastian, A.</author>
+         <author>Pozidis, H.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>Decision and Control, 2008. CDC 2008. 47th IEEE Conference on</journal>
+         <title>Modeling and identification of the dynamics of electrostatically actuated microcantilever with integrated thermal sensor</title>
+         <year>2008</year>
+         <month>dec.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/ElectrostaticallyActuatedMicrocantilever.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2624-2630</pages>
+         <abstract>Microcantilevers that thermally sense the topography of the sample with the ability of electrostatic actuation enable a highly parallel implementation where multiple cantilevers scan the media. Microcantilevers with integrated sensors are used for a variety of applications viz. calorimetry, thermal dip pen lithography, thermal metrology, room temperature chemical vapor deposition in addition to high density data storage application. The dynamics of these cantilevers is governed by a complex interplay of mechanical, thermal, electrostatic and interatomic forces. Such dynamics are analyzed in this paper for operating conditions that are practical for high density data storage applications (Â¿ Tb=in2) and imaging. Models for a thermo-mechanical cantilever that are tractable for real-time applications as well as a comprehensive characterization of the relevant physical effects and methods for identifying model parameters are developed. The efficacy of the paradigm developed is proven by a comparison with experimental data.</abstract>
+      </article>
+  </entry>
+  <entry id="dampingmechanismsmakan">
+      <article>
+         <author>Fardad, M.</author>
+         <author>Jovanovic, M.R.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2009. ACC '09.</journal>
+         <title>Damping mechanisms in dynamic mode atomic force microscopy applications</title>
+         <year>2009</year>
+         <month>june</month>
+         <catid>theory,afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/DampingMechanismsMakan.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2272-2277</pages>
+         <abstract>We consider the cantilever beam model proposed in the seminal paper of Sader, where fluid damping effects on an oscillating cantilever are modeled. We show that in Sader's model, the transfer function of base-to-tip displacement fails to display high-frequency roll-off. It turns out that this is also true for the widely-used viscous damped beam model. We further demonstrate that the addition of Voigt damping to Sader's model creates the high frequency roll-off expected of a realistic model.</abstract>
+      </article>
+  </entry>
+  <entry id="attractiondomainlyapunov">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2009. ACC '09.</journal>
+         <title>Attraction domain estimates combining lyapunov functions</title>
+         <year>2009</year>
+         <month>june</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/AttractionDomainLyapunov.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>4007-4012</pages>
+         <abstract>This article tackles the problem of estimating the domain of attraction of a Lur'e system, that is the feedback interconnection of a linear time-invariant system with a memoryless static operator. When the dimension of the system is large, numerical approaches based on simulations become prohibitive from a computational point of view. On the other hand, classical analytical techniques based on Lyapunov functions provide conservative estimates because they usually consider quadratic Lyapunov functions. Another limit is given by the fact that they deal with contractively invariant sets, which are sets where the derivative of the Lyapunov function along the trajectories is negative. Methods to reduce their conservativeness are still a challenging subject of research and desirable for many practical applications. In this paper, we try to combine the information given by more Lyapunov functions together in order to enlarge the estimate of the domain of attraction. The novelty of our approach lies in the fact that the sets we are considering are invariant but not necessarily contractively invariant. We assume that an estimate of the attraction domain is already known. In order to show that a set is part of the attraction domain, it is sufficient to prove that all the trajectories starting from it reach the current estimate in a finite time. This concept provides a method to iteratively improve the attraction domain estimate using different Lyapunov functions without limiting the analysis to contractively invariant sets. After developing a general theory, we only resort to the use of quadratic Lyapunov functions because of the computational appeal given by LMI solvers.</abstract>
+      </article>
+  </entry>
+  <entry id="lessconservativcriteria">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2009. ACC '09.</journal>
+         <title>Less conservative absolute stability criteria using Integral Quadratic Constraints</title>
+         <year>2009</year>
+         <month>june</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/LessConservativCriteria.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>113-118</pages>
+         <abstract>Lur'e systems, that are described by the feedback interconnection of a linear time invariant system and a nonlinear system, form an important class of nonlinear systems arising in many modern applications. A number of absolute stability criteria are available where the stability is guaranteed with the nonlinearity restricted to a pre-specified set. Most of these criteria provide sufficient conditions for absolute stability, thus lessening the conservativeness remains a challenge. A method of reducing conservativeness is to first estimate the part of the nonlinearity that is appropriate from an asymptotic sense followed by the application of a preferred absolute stability criteria to the more restricted nonlinearity. A comprehensive framework that incorporates the above approach is developed in this paper that employs a methodology based on integral quadratic constraints as a means of describing the nonlinearity. It is shown that the developed framework can be used to conclude absolute stability of Lur'e interconnections where all of the existing criteria fail to be satisfied. Indeed, examples are provided where the nonlinearity does not fall into the classes assumed by existing absolute criteria. Another contribution of the article is the extension of IQC theory.</abstract>
+      </article>
+  </entry>
+  <entry id="maximumlikelihoodsequencedetector">
+      <article>
+         <author>Kumar, N.</author>
+         <author>Agarwal, P.</author>
+         <author>Ramamoorthy, A.</author>
+         <author>Salapaka, M.</author>
+         <journal>Communications, IEEE Transactions on</journal>
+         <title>Maximum-likelihood sequence detector for dynamic mode high density probe storage</title>
+         <year>2010</year>
+         <month>june</month>
+         <catid>theory,afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/MaximumLikelihoodSequenceDetector.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>58</volume>
+         <number>6</number>
+         <pages>1686-1694</pages>
+         <abstract>There is an increasing need for high density data storage devices driven by the increased demand of consumer electronics. In this work, we consider a data storage system that operates by encoding information as topographic profiles on a polymer medium. A cantilever probe with a sharp tip (few nm radius) is used to create and sense the presence of topographic profiles, resulting in a density of few Tb per in.2. The prevalent mode of using the cantilever probe is the static mode that is harsh on the probe and the media. In this article, the high quality factor dynamic mode operation, that is less harsh on the media and the probe, is analyzed. The read operation is modeled as a communication channel which incorporates system memory due to inter-symbol interference and the cantilever state. We demonstrate an appropriate level of abstraction of this complex nanoscale system that obviates the need for an involved physical model. Next, a solution to the maximum likelihood sequence detection problem based on the Viterbi algorithm is devised. Experimental and simulation results demonstrate that the performance of this detector is several orders of magnitude better than the performance of other existing schemes.</abstract>
+      </article>
+  </entry>
+  <entry id="reconstructingunknowntopology">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference (ACC), 2010</journal>
+         <title>On the problem of reconstructing an unknown topology</title>
+         <year>2010</year>
+         <month>june 30-july 2</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/ReconstructingUnknownTopology.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2113-2118</pages>
+         <abstract>The interest for networks of dynamical systems has been increasing in the past years, especially because of their capability of modeling and describing a large variety of phenomena and behaviors. Particular attention has been oriented towards the emergence of complicated phenomena from interconnections of simple models. In this paper we tackle, from a theoretical perspective, the problem of reconstructing the topology of an unknown network of dynamical systems. We propose a technique, based on Wiener filtering, which provides general theoretical guarantees for the detection of links in a network of dynamical systems. For a large class of network that we name #x201C;self-kin #x201D; sufficient conditions for a correct detection of a link are formulated. For networks not belonging to this class we give conditions for correct detection of links belonging to the smallest self-kin network containing the actual one.</abstract>
+      </article>
+  </entry>
+  <entry id="mapdetectionnaveen">
+      <article>
+         <author>Kumar, N.</author>
+         <author>Saraswat, G.</author>
+         <author>Agarwal, P.</author>
+         <author>Ramamoorthy, A.</author>
+         <author>Salapaka, M.</author>
+         <journal>Signals, Systems and Computers (ASILOMAR), 2010 Conference Record of the Forty Fourth Asilomar Conference on</journal>
+         <title>High-speed nano-imaging using dynamic mode AFM: A MAP detection approach</title>
+         <year>2010</year>
+         <month>nov.</month>
+         <catid>theory,afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/MAPdetectionNaveen.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1807-1811</pages>
+         <abstract>Nano-imaging has played a vital role in biology, chemistry and physics as it enables interrogation of material with sub-nanometer resolution. Primary means of achieving such atomic scale interrogation of matter are based on the principles of atomic force microscopy (AFM) and scanning tunneling microscopy (STM). However, current nano-imaging techniques are too slow to be useful in the high speed applications of interest such as studying the evolution of certain biological processes over time that involve very small time scales. In this work, we present a high speed one-bit imaging technique using dynamic mode AFM with a high quality factor cantilever. We model the high quality factor cantilever system using a Markovian model which incorporates the inherent system memory due to the inter-symbol interference and the cantilever state. Next, we pose the imaging problem as one of finding the maximum a posteriori (MAP) symbol detector for this model. This is solved by adapting the BCJR algorithm for our channel model. Furthermore, we propose an improved MAP symbol detector that incorporates a learned prior from the previous scan line while detecting the features on the current scan line. Experimental results demonstrate that our proposed algorithm provides significantly better image resolution compared to current nano-imaging techniques at high scanning speed.</abstract>
+      </article>
+  </entry>
+  <entry id="mlsequencedetection">
+      <article>
+         <author>Kumar, N.</author>
+         <author>Ramamoorthy, A.</author>
+         <author>Salapaka, M.</author>
+         <journal>Global Telecommunications Conference (GLOBECOM 2010), 2010 IEEE</journal>
+         <title>Performance Evaluation for ML Sequence Detection in ISI Channels with Gauss Markov Noise</title>
+         <year>2010</year>
+         <month>dec.</month>
+         <catid>theory,afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/MLsequenceDetection.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1-5</pages>
+         <abstract>Inter-symbol interference (ISI) channels with data dependent Gauss Markov noise have been used to model read channels in magnetic recording and other data storage systems. The Viterbi algorithm can be adapted for performing maximum likelihood sequence detection in such channels. However, the problem of finding an analytical upper bound on the bit error rate of the Viterbi detector in this case has not been fully investigated. Current techniques rely on an exhaustive enumeration of short error events and determine the BER using a union bound. In this work, we consider a subset of the class of ISI channels with data dependent Gauss-Markov noise. We derive an upper bound on the pairwise error probability (PEP) between the transmitted bit sequence and the decoded bit sequence that can be expressed as a product of functions depending on current and previous states in the (incorrect) decoded sequence and the (correct) transmitted sequence. In general, the PEP is asymmetric. The average BER over all possible bit sequences is then determined using a pairwise state diagram. Simulations results which corroborate the analysis of upper bound, demonstrate that analytic bound on BER is tight in high SNR regime. In the high SNR regime, our proposed upper bound obviates the need for computationally expensive simulation.</abstract>
+      </article>
+  </entry>
+  <entry id="structureandestimators">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Giarre, L.</author>
+         <journal>Decision and Control and European Control Conference (CDC-ECC), 2011 50th IEEE Conference on</journal>
+         <title>Relations between structure and estimators in networks of dynamical systems</title>
+         <year>2011</year>
+         <month>dec.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/StructureAndEstimators.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>162-167</pages>
+         <abstract>The article main focus is on the identification of a graphical model from time series data associated with different interconnected entities. The time series are modeled as realizations of stochastic processes (representing nodes of a graph) linked together via transfer functions (representing the edges of the graph). Both the cases of non-causal and causal links are considered. By using only the measurements of the node outputs and without assuming any prior knowledge of the network topology, a method is provided to estimate the graph connectivity. In particular, it is proven that the method determines links to be present only between a node and its #x201C;kins #x201D;, where kins of a node consist of parents, children and co-parents (other parents of all of its children) in the graph. With the additional hypothesis of strictly casual links, a similar method is provided that allows one to exactly reconstruct the original graph. Main tools for determining the network topology are based on Wiener, Wiener-Hopf and Granger filtering. Analogies with the problem of Compressing Sensing are drawn and two greedy algorithms to address the problem of reducing the complexity of the network structure are also suggested.</abstract>
+      </article>
+  </entry>
+  <entry id="networkreconstruction">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference (ACC), 2011</journal>
+         <title>Causal and non-causal filtering for network reconstruction</title>
+         <year>2011</year>
+         <month>june 29 - july 1</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/NetworkReconstruction.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>4928-4933</pages>
+         <abstract>In many diverse areas, determining the connectivity of various entities in a network is of significant interest. This article's main focus is on a network (graph) of nodes (vertices) that are linked via filters that represent the edges of a graph. Both cases of the links being non-causal and causal are considered. Output of each node of the graph represents a scalar stochastic process driven by an independent noise source and by a sum of filtered outputs of nodes linked to the node of interest. It is shown that the method provided will identify all true links in the network with some spurious links added. The spurious links remain local in the sense that they are added within a hop of a true link. In particular, it is proven that the method determines a link to be present only between the kins of a node where kins of a node consist of parents, children and co-parents (other parents of all of its children) in the graph. Main tools for determining the network topology is based on Wiener filtering. Another significant insight provided by the article is that the Wiener filter estimating a stochastic process, represented by a node, based on other processes in a network configuration remains local in the sense that the Wiener filter utilizes only measurements local to the node being estimated.</abstract>
+      </article>
+  </entry>
+  <entry id="zamesfalbmultiplier">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference (ACC), 2011</journal>
+         <title>A generalized Zames-Falb multiplier</title>
+         <year>2011</year>
+         <month>june 29 - july 1</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/ZamesFalbMultiplier.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1990-1993</pages>
+         <abstract>Lur'e systems represent feedback interconnections of a Linear Time-Invariant system with a nonlinear operator. The Zames-Falb criterion is a powerful tool to determine the stability of a Lur'e system when the nonlinear operator is defined by a monotonic, odd and single-valued function. The article provides a generalization of the Zames-Falb criterion for the analysis of stability of a Lur'e system for nonlinear static operators that are "approximately" monotonic and odd. This result extends the standard Zames-Falb criterion with an additional notion of "robustness".</abstract>
+      </article>
+  </entry>
+  <entry id="networkreconstruction">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference (ACC), 2011</journal>
+         <title>Causal and non-causal filtering for network reconstruction</title>
+         <year>2011</year>
+         <month>june 29 - july 1</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/NetworkReconstruction.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>4928-4933</pages>
+         <abstract>In many diverse areas, determining the connectivity of various entities in a network is of significant interest. This article's main focus is on a network (graph) of nodes (vertices) that are linked via filters that represent the edges of a graph. Both cases of the links being non-causal and causal are considered. Output of each node of the graph represents a scalar stochastic process driven by an independent noise source and by a sum of filtered outputs of nodes linked to the node of interest. It is shown that the method provided will identify all true links in the network with some spurious links added. The spurious links remain local in the sense that they are added within a hop of a true link. In particular, it is proven that the method determines a link to be present only between the kins of a node where kins of a node consist of parents, children and co-parents (other parents of all of its children) in the graph. Main tools for determining the network topology is based on Wiener filtering. Another significant insight provided by the article is that the Wiener filter estimating a stochastic process, represented by a node, based on other processes in a network configuration remains local in the sense that the Wiener filter utilizes only measurements local to the node being estimated.</abstract>
+      </article>
+  </entry>
+  <entry id="salapaka1999multi">
+      <article>
+         <author>Salapaka, M.</author>
+         <author>Khammash, M.</author>
+         <journal>American Control Conference (ACC), 1998l</journal>
+         <title>Multi-objective MIMO optimal control design without zero interpolation</title>
+         <year>1998</year>
+         <month>june</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/salapaka1999multi.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>660-664</pages>
+         <abstract>In this article optimal controller designs which address the concerns of the H2 and the l1 norms is studied. In the first problem a positive combination of the H2 and the l1 norms of the closed loop is minimized. In the second the l1 norm of a transfer function is minimized while restraining the H2 norm below a prespecified level. Converging upper and lower bounds are obtained. Relation to the pure l1 problem is established. The solution methodology does not involve zero interpolation to characterize the achievable closed-loop maps. Thus obtaining the controller from the optimal closed-loop map is straightforward.</abstract>
+      </article>
+  </entry>
+  <entry id="salapaka1998complex">
+      <article>
+         <author>Salapaka, S.</author>
+         <author>Salapaka, MV</author>
+         <author>Dahleh, MA</author>
+         <author>Mezic, I.</author>
+         <journal>Decision and Control, 1998. Proceedings of the 37th IEEE Conference on</journal>
+         <title>Complex dynamics in repeated impact oscillators</title>
+         <year>1998</year>
+         <month>june 29 - july 1</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/salapaka1998complex.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2053-2058</pages>
+         <abstract>This work deals with a model for repeated impacts of a mass attached to a spring with a massive, sinusoidally vibrating table. This model has been studied in an attempt to understand the cantilever-sample dynamics in atomic force microscopy. In this work, we have shown that for some values of the frequency of the vibrating table, there are countably many orbits of arbitrarily long periods and the system is sensitive to the initial conditions with which the experiments are conducted.</abstract>
+      </article>
+  </entry>
+  <entry id="khammash1998synthesis">
+      <article>
+         <author>Salapaka, M.</author>
+         <author>Khammash, M.</author>
+         <journal>Decision and Control, 1998. Proceedings of the 37th IEEE Conference on</journal>
+         <title>Synthesis of globally optimal controllers in l1 using linear relaxation</title>
+         <year>1998</year>
+         <month>Dec.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/khammash1998synthesis.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>3315-3320</pages>
+         <abstract>This paper solves the problem of synthesis of controllers achieving globally optimal robust performance against structured time-varying and/or nonlinear uncertainity. The performance measure considered is the infinity to infinity induced norm of a system's transfer function. The solution utilizes linear relaxation for finding the global optimal solution.</abstract>
+      </article>
+  </entry>
+  <entry id="salapaka1998stability">
+      <article>
+         <author>Salapaka, M.V.</author>
+         <author>Chen, DJ</author>
+         <author>Cleveland, J</author>
+         <journal>Decision and Control, 1998. Proceedings of the 37th IEEE Conference on</journal>
+         <title>Stability and sensitivity analysis of periodic orbits in tapping mode atomic force microscopy</title>
+         <year>1998</year>
+         <month>Dec.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/salapaka1998stability.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2047-2052</pages>
+         <abstract>In this paper, the most widely used mode of atomic force microscopy imaging where the cantilever is oscillated at its resonant frequency is studied. It is shown that the amplitude and the sine of the phase of the orbit vary linearly with respect to the cantilever-sample distance. Experiments conducted on a silicon cantilever agree with the theory developed.</abstract>
+      </article>
+  </entry>
+  <entry id="daniele1999piezoelectric">
+      <article>
+         <author>Daniele, A.</author>
+         <author>Salapaka, S.</author>
+         <author>Salapaka, MV</author>
+         <author>Dahleh, M.</author>
+         <journal>American Control Conference, 1999.</journal>
+         <title>Piezoelectric scanners for atomic force microscopes: Design of lateral sensors, identification and control</title>
+         <year>1999</year>
+         <month>Jun.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/daniele1999piezoelectric.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>253-257</pages>
+         <abstract>This paper presents the identification and control of piezoelectric positioners used in atomic force microscopes (AFM) with the goal of improving probe positioning on the sample surface. A novel sensor was developed for this task and employed to infer a sixth order linear two input two output model of the piezos lateral dynamics. The piezo model was used to design a controller for tracking reference signals common in AFM operation. The controller and sensor were shown to significantly improve the microscopes ability to position the probe on the samples surface, enabling the AFM user to precisely scan areas on a surface based on images from previous scans.</abstract>
+      </article>
+  </entry>
+  <entry id="rajaram2000experimental">
+      <article>
+         <author>Rajaram, R.</author>
+         <author>Salapaka, MV</author>
+         <author>Basso, M.</author>
+         <author>Dahleh, M.</author>
+         <journal>American Control Conference, 2000.</journal>
+         <title>Experimental study of stochastic resonance in atomic force microscopes</title>
+         <year>2000</year>
+         <month>Jun.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/rajaram2000experimental.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2129-2133</pages>
+         <abstract>Stochastic resonance is an interesting phenomenon which can occur in bistable systems subject to periodic and random forcing. This effect produces an improvement in the sensitivity of the bistable system to the periodic signal. In this paper, stochastic resonance for atomic force microscope (AFM) is studied. The experimental results indicate that the AFM can be modeled as a bistable system similar to the Schmitt trigger, for which stochastic resonance has been well studied. The results indicate that stochastic resonance in AFM can be applied in many technological contexts as, for example, in the analysis of the effects of thermal noise in order to optimize the achievable resolution for imaging.</abstract>
+      </article>
+  </entry>
+  <entry id="seb2000harmonic">
+      <article>
+         <author>Sebastian, A.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Chen, D.J.</author>
+         <author>Cleveland, J.P.</author>
+         <journal>American Control Conference,1999.</journal>
+         <title>Harmonic analysis based modeling of tapping-mode AFM</title>
+         <year>1999</year>
+         <month>Jun.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/seb2000harmonic.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>232-236</pages>
+         <abstract>In this paper we use harmonic balance and averaging techniques to analyze the tapping mode dynamics of the atomic force microscope (AFM). A model for the cantilever sample interaction is developed. Experimental results show that the analysis and the model predict the behavior of the tapping cantilever.</abstract>
+      </article>
+  </entry>
+  <entry id="murtimatlab">
+      <article>
+         <author>Qi, Xin,</author>
+         <author>M. H. Khammash,</author>
+         <author>Salapaka., M. V.</author>
+         <journal>Decision and Control, 2001. Proceedings of the 40th IEEE Conference on</journal>
+         <title>A Matlab Package for Multiobjective Control Synthesis</title>
+         <year>2001</year>
+         <month>Dec.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/murtimatlab.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>3991-3996</pages>
+         <abstract>In this paper, a MATLAB package, GMO 1.0, is introduced for synthesizing (sub-) optimal controllers for the general multiobjective (GMO) control problem involving 1 norm, ℋ2 norm, ℋ∞ norm, time-domain constraint (TDC), and controller structure constraints. The GMO framework encompasses a large class of multiobjective problems which can be effectively solved by using GMO 1.0 package (e.g. 1/ℋ∞, 1/TDC, etc.). While global convergence is guaranteed for the convex finite dimensional suboptimal problems, this set of routines yields a rational linear time-invariant controller delivering performance within any prescribed tolerance of the optimal cost. In this paper, several multiobjective design problems are solved to demonstrate the effectiveness of the framework and the software</abstract>
+      </article>
+  </entry>
+  <entry id="sahoo2001quantum">
+      <article>
+         <author>Sahoo, D.R.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>Decision and Control, 2001. Proceedings of the 40th IEEE Conference on</journal>
+         <title>Constructive control of quantum-mechanical systems</title>
+         <year>2001</year>
+         <month>Dec.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/sahoo2001quantum.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1601-1606</pages>
+         <abstract>In this paper we develop a method for exact constructive controllability of quantum mechanical systems. The method has three steps, first a path from the initial state to the final state is determined and intermediate points chosen such that any two consecutive points are close, next small sinusoidal control signals are used to drive the system between the points, and finally quantum measurement technique is used to exactly achieve the desired state. The methodology is demonstrated for the control of spin-half particles in a Stern-Gerlach setting</abstract>
+      </article>
+  </entry>
+  <entry id="salapaka2002nanopositioning">
+      <article>
+         <author>Salapaka, S.</author>
+         <author>Sebastian, A.</author>
+         <author>Cleveland, J.P.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2002.</journal>
+         <title>Design, identification and control of a fast nanopositioning device</title>
+         <year>2002</year>
+         <month>Jun.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/salapaka2002nanopositioning.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1966-1971</pages>
+         <abstract>This paper presents the design, identification and control of a nanopositioning device. The device is actuated by a piezoelectric stack and its motion is sensed by a linear variable differential transformer (LVDT). A fourth order single input single output model has been identified to describe its dynamics. It is demonstrated that PI control law does not meet the bandwidth requirements for positioning. This motivated the design and implementation of an H infin; controller which demonstrates substantial improvements in the positioning speed and precision besides eliminating the undesirable nonlinear effects of the actuator. The characterization of the device in terms of bandwidth, resolution, and repeatability is also shown.</abstract>
+      </article>
+  </entry>
+  <entry id="sahoo2002feedback">
+      <article>
+         <author>Sahoo, D.R.</author>
+         <author>Swaminathan, S.</author>
+         <author>Al-Omari, R.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Manimaran, G.</author>
+         <author>Somani, A.K.</author>
+         <journal>American Control Conference, 2002.</journal>
+         <title>Feedback control for real-time scheduling</title>
+         <year>2002</year>
+         <month>Jun.</month>
+         <catid>other</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/sahoo2002feedback.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1254-1259</pages>
+         <abstract>Most real-time scheduling algorithms are open-loop algorithms as the scheduling decisions are based on the worst-case estimates of task parameters. In recent years, the "closed-loop" scheduling has gained importance due to its applicability to many real-world problems wherein the feedback information can be exploited efficiently to adjust task and/or scheduler parameters, thereby improving the system's performance. In this paper, we discuss an open-loop dynamic scheduling algorithm that employs a notion of task overlap in the scheduler in order to provide some flexibility in task execution time. Then we present a novel closed-loop approach for dynamically estimating the execution time of tasks based on both deadline miss ratio and task rejection ratio in the system. This approach is highly preferable for firm/soft real-time systems since it provides a firm performance guarantee in terms of deadline misses while achieving a high guarantee ratio. We design the proportional-integral controller and H infin; controller for closed loop scheduling. We evaluate the performance of the open-loop and the closed-loop approaches using simulation studies. We show that the closed-loop dynamic scheduling offers a better performance over the open-loop scheduling under all practical conditions.</abstract>
+      </article>
+  </entry>
+  <entry id="seb2002tapping">
+      <article>
+         <author>Sahoo, D.R.</author>
+         <author>Swaminathan, S.</author>
+         <author>Al-Omari, R.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Manimaran, G.</author>
+         <author>Somani, A.K.</author>
+         <journal>American Control Conference, 2002.</journal>
+         <title>Feedback control for real-time scheduling</title>
+         <year>2002</year>
+         <month>Jun.</month>
+         <catid>other</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/seb2002tapping.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>1254-1259</pages>
+         <abstract>Most real-time scheduling algorithms are open-loop algorithms as the scheduling decisions are based on the worst-case estimates of task parameters. In recent years, the "closed-loop" scheduling has gained importance due to its applicability to many real-world problems wherein the feedback information can be exploited efficiently to adjust task and/or scheduler parameters, thereby improving the system's performance. In this paper, we discuss an open-loop dynamic scheduling algorithm that employs a notion of task overlap in the scheduler in order to provide some flexibility in task execution time. Then we present a novel closed-loop approach for dynamically estimating the execution time of tasks based on both deadline miss ratio and task rejection ratio in the system. This approach is highly preferable for firm/soft real-time systems since it provides a firm performance guarantee in terms of deadline misses while achieving a high guarantee ratio. We design the proportional-integral controller and H infin; controller for closed loop scheduling. We evaluate the performance of the open-loop and the closed-loop approaches using simulation studies. We show that the closed-loop dynamic scheduling offers a better performance over the open-loop scheduling under all practical conditions.</abstract>
+      </article>
+  </entry>
+  <entry id="smith2002model">
+      <article>
+         <author>Smith, R.C.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Hatch, A.</author>
+         <author>Smith, J.</author>
+         <author>De, T.</author>
+         <journal>Decision and Control, 2002. Proceedings of the 41st IEEE Conference on</journal>
+         <title>Model development and inverse compensator design for high speed nanopositioning</title>
+         <year>2002</year>
+         <month>Dec.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/smith2002model.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>3652-3657</pages>
+         <abstract>This paper focuses on the development of constitutive models, commensurate system models, and inverse compensator construction for high speed nanopositioning in atomic force microscopes (AFM). All current AFM employ either stacked or cylindrical piezoceramic actuators for both longitudinal and transverse positioning of the sample. An inherent property of these materials is the presence of hysteresis and constitutive nonlinearities, even at the low drive levels employed for angstrom-level resolution. At low frequencies, standard feedback mechanisms effectively attenuate the hysteresis, whereas noise at high frequencies diminishes the efficacy of feedback and leads to unacceptable accuracy. In this paper, we discuss modeling techniques which provide a first step toward high speed nanopositioning for applications ranging from macroscopic product evaluation to real-time imaging of biological processes.</abstract>
+      </article>
+  </entry>
+  <entry id="qi2003network">
+      <article>
+         <author>Qi, Xin</author>
+         <author>Salapaka, M.V.</author>
+         <author>Voulgaris, P.G.</author>
+         <author>Khammash, M.</author>
+         <journal>American Control Conference, 2003.</journal>
+         <title>Structured optimal control with applications to network flow coordination</title>
+         <year>2003</year>
+         <month>Jun.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/qi2003network.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>272-277</pages>
+         <abstract>In this paper the design of controllers that incorporate structural and multiobjective performance requirements is considered. The control structures under study cover nested, chained, hierarchical, delayed interaction and communications, and symmetric systems. Such structures are strongly related to several modern-day and future applications including integrated flight propulsion systems, platoons of vehicles, micro-electromechanical systems, networked control, control of networks, production lines and chemical processes. It is shown that the system classes presented have the common feature that all stabilizing controllers can be characterized by convex constraints on the Youla-Kucera parameter. Using this feature, a solution to a general optimal performance problem that incorporates time domain and frequency domain constraints is obtained. A synthesis procedure is provided which, at every step, yields a feasible controller together with a measure of its performance with respect to the optimal performance. Convergence to the optimal performance is established. An example of a multi-node network congestion control problem is provided that illustrates the effectiveness of the developed methodology..</abstract>
+      </article>
+  </entry>
+  <entry id="seb2003robust">
+      <article>
+         <author>Sebastian, A.</author>
+         <author>Salapaka, M.V.</author>
+         <author>Cleveland, J.P.</author>
+         <journal>Decision and Control, 2003. Proceedings of the 42nd IEEE Conference on</journal>
+         <title>Robust control approach to atomic force microscopy</title>
+         <year>2003</year>
+         <month>Dec.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/seb2003robust.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>3443-3444</pages>
+         <abstract>The imaging problem using an atomic force microscope (AFM) is addressed in the framework of modern robust control. Subsequently stacked H infin; and Glover McFarlane controllers are designed for high bandwidth and robustness. It is postulated that the sample profile can be accurately imaged without building explicit observers. Experimental results substantiate this claim.</abstract>
+      </article>
+  </entry>
+  <entry id="yadav2003nested">
+      <article>
+         <author>Yadav, V.</author>
+         <author>Voulgaris, P.G.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>Decision and Control, 2003. Proceedings of the 42nd IEEE Conference on</journal>
+         <title>Stabilization of nested systems with uncertain subsystem communication channels</title>
+         <year>2003</year>
+         <month>Dec.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/yadav2003nested.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2853-2858</pages>
+         <abstract>This paper addresses the design of stabilizing controllers for a nested control system where the controller is realized in a distributed manner, considering uncertainty not only in the controller-to-plant and plant-to-controller channels but also in the nest-to-nest, subcontroller-to-subcontroller communication. An input-output approach is taken. Two appropriate controller architectures that stabilize the entire system with the various components subject to uncertainty and noise are addressed. We present controller synthesis procedures to address deterministic uncertainty and stochastic uncertainty, that model packet-loss in the Internet.</abstract>
+      </article>
+  </entry>
+  <entry id="seb2003observer">
+      <article>
+         <author>Sebastian, A.</author>
+         <author>Sahoo, D.R.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>Decision and Control, 2003. Proceedings of the 42nd IEEE Conference on</journal>
+         <title>An observer based sample detection scheme for atomic force microscopy</title>
+         <year>2003</year>
+         <month>Dec.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/seb2003observer.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2132-2137</pages>
+         <abstract>In dynamic mode operation of atomic force microscopes steady state signals like amplitude and phase are typically used for the detection and imaging of sample. Due to the high quality factor of the micro-cantilever probe the corresponding methods are inherently slow. In this paper we present a novel methodology for fast interrogation of sample that exploits the transient signals. A novel method is introduced for the detection of small time scale tip-sample interactions. Simulations and experiments show that the method results in significant increase in bandwidth and resolution as compared to the steady state data based methods.</abstract>
+      </article>
+  </entry>
+  <entry id="seb2004amp">
+      <article>
+         <author>Sebastian, A.</author>
+         <author>Gannepalli, A.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2004.</journal>
+         <title>The amplitude phase dynamics and fixed points in tapping-mode atomic force microscopy</title>
+         <year>2004</year>
+         <month>Jun.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/seb2004amp.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>2132-2137</pages>
+         <abstract>The first harmonic of the cantilever deflection in the tapping-mode operation of an atomic force microscope (AFM) is analyzed using asymptotic methods for weakly nonlinear oscillators. The resulting amplitude and phase dynamical equations are obtained which characterize the transient behavior of tapping-mode dynamics. The steady state behavior is analyzed by examining the fixed points of the amplitude phase dynamics and a simple stability criterion is obtained. Further with a simple tip-sample interaction model, the experimentally observed discontinuous jumps in the amplitude versus tip-sample separation plots are explained and the regions of the interaction regime probed by the tip are investigated.</abstract>
+      </article>
+  </entry>
+  <entry id="ganep2004thermal">
+      <article>
+         <author>Gannepalli, A.</author>
+         <author>Sebastian, A.</author>
+         <author>Cleveland, J.P.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2004.</journal>
+         <title>Thermal noise response based control of tip-sample separation in AFM</title>
+         <year>2004</year>
+         <month>Jun.</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/ganep2004thermal.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>3122-3127</pages>
+         <abstract>Micro-cantilever based devices have revolutionized imaging and they are the primary tools for investigation and control of matter at the nanoscale. In certain applications like single electron spin detection, it is essential to maintain a sub-nanometer tip-sample separation for extended periods of time. The existing techniques of atomic force microscope (AFM) operation are not suited for such applications. In this paper a novel approach based on the thermal noise response of the cantilever is developed that promises to meet the aforementioned challenges. The presented technique exploits the dependence of the tip-sample separation and cantilever's resonant frequency to maintain a small tip-sample separation by regulating the effective resonant frequency. The resonant frequency is estimated from cantilever's response to the thermal noise forcing. The experiments performed in ambient room conditions have achieved tip-sample separations as small as 1.5 nm for time periods in excess of 30 min.</abstract>
+      </article>
+  </entry>
+  <entry id="yadav2005distributedl">
+      <article>
+         <author>Gannepalli, A.</author>
+         <author>Sebastian, A.</author>
+         <author>Cleveland, J.P.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2004.</journal>
+         <title>Thermal noise response based control of tip-sample separation in AFM</title>
+         <year>2004</year>
+         <month>Jun.</month>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/yadav2005distributed.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>3122-3127</pages>
+         <abstract>Micro-cantilever based devices have revolutionized imaging and they are the primary tools for investigation and control of matter at the nanoscale. In certain applications like single electron spin detection, it is essential to maintain a sub-nanometer tip-sample separation for extended periods of time. The existing techniques of atomic force microscope (AFM) operation are not suited for such applications. In this paper a novel approach based on the thermal noise response of the cantilever is developed that promises to meet the aforementioned challenges. The presented technique exploits the dependence of the tip-sample separation and cantilever's resonant frequency to maintain a small tip-sample separation by regulating the effective resonant frequency. The resonant frequency is estimated from cantilever's response to the thermal noise forcing. The experiments performed in ambient room conditions have achieved tip-sample separations as small as 1.5 nm for time periods in excess of 30 min.</abstract>
+      </article>
+  </entry>
+  <entry id="mvcontrollerdesign">
+      <article>
+         <author>M. V. Salapaka, P. Voulgaris</author>
+         <author>Dahleh, M.</author>
+         <journal>Proceedings of the third Mediterranean Symposium on New Directions in Control and Automation, 1995</journal>
+         <title>Controller design to minimize a composite measure of the l1 and the H2 norms</title>
+         <year>1995</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/missingLink.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume>2</volume>
+         <number/>
+         <pages>93-100</pages>
+         <abstract/>
+      </article>
+  </entry>
+  <entry id="mvl1h2">
+      <article>
+         <author>Salapaka, M. V.</author>
+         <author>Dahleh, M.</author>
+         <journal>Proceedings of the Allerton Conference, Urbana, Illinois, 1997</journal>
+         <title>l1/H2 control</title>
+         <year>1997</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/missingLink.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages/>
+         <abstract/>
+      </article>
+  </entry>
+  <entry id="daniele1997robust">
+      <article>
+         <author>Daniele, A.</author>
+         <author>Nakata, T.</author>
+         <author>Giarre, L.</author>
+         <author>Salapaka, MV</author>
+         <author>Dahleh, M.</author>
+         <journal>Proc. IFAC Symp. Robust Control Design</journal>
+         <title>Robust identification and control of scanning probe microscope scanner</title>
+         <year>1997</year>
+         <month/>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/missingLink.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages>25-27</pages>
+         <abstract/>
+      </article>
+  </entry>
+  <entry id="mvrecentprogress">
+      <article>
+         <author>M. V. Salapaka, M. Khammash,</author>
+         <author>Dahleh, M.</author>
+         <journal>Proceedings of the ASME conference, 1998</journal>
+         <title>Recent progress in mixed objective control synthesis with l1 and H2 norms</title>
+         <year>1998</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/missingLink.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages/>
+         <abstract/>
+      </article>
+  </entry>
+  <entry id="basso1999stochastic">
+      <article>
+         <author>Basso, M.</author>
+         <author>Dahleh, M.</author>
+         <author>MeziC, I.</author>
+         <author>Salapaka, MV</author>
+         <journal>American Control Conference (ACC), 1999</journal>
+         <title>Stochastic resonance in AFM's</title>
+         <year>1999</year>
+         <month/>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/basso1999stochastic.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume>6</volume>
+         <number/>
+         <pages>3774-3778</pages>
+         <abstract>Stochastic resonance (SR) is an interesting phenomenon which can occur in bistable systems subject to both periodic and random forcing. This effect produces an improvement of the output signal-to-noise ratio when the input noise increases. In this paper we derive an expression for the power spectral density of a general class of systems revealing SR phenomena. This result may find useful applications in many technological contexts as, for example, in the analysis of the effects of thermal noise in atomic force microscopy, in order to optimize the achievable resolution for imaging</abstract>
+      </article>
+  </entry>
+  <entry id="mvnewapproach">
+      <article>
+         <author>Qi, X,</author>
+         <author>M. H. Khammash,</author>
+         <author>Salapaka, M. V.</author>
+         <journal>Proceedings of the 38th annual allerton conference on communication, control and computing, Allerton, Urbana, Illinois, 2000</journal>
+         <title>A new approach to multiple-objective controller synthesis</title>
+         <year>2000</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/missingLink.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages/>
+         <abstract/>
+      </article>
+  </entry>
+  <entry id="qi2001optimal">
+      <article>
+         <author>Qi, X.</author>
+         <author>Khammash, M.H.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference, 2001</journal>
+         <title>Optimal controller synthesis with multiple objectives</title>
+         <year>2001</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/qi2001optimal.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume>4</volume>
+         <number/>
+         <pages>2730-2735</pages>
+         <abstract>We present a methodology to address the general multiobjective control problem involving the 1 norm,l2 norm, l-infinity norm and time-domain constraint. We show that the problem resulting from imposing a regularizing condition always admits an optimal solution, and suboptimal solutions with performance arbitrarily close to the optimal cost can be obtained by constructing two sequences of finite dimensional convex optimization problems whose objective values converge to the optimum from below and above. A numerical example is presented to illustrate the effectiveness of the proposed methodologyWe present a methodology to address the general multiobjective control problem involving the 1 norm, l2 norm, l-infinity norm and time-domain constraint. We show that the problem resulting from imposing a regularizing condition always admits an optimal solution, and suboptimal solutions with performance arbitrarily close to the optimal cost can be obtained by constructing two sequences of finite dimensional convex optimization problems whose objective values converge to the optimum from below and above. A numerical example is presented to illustrate the effectiveness of the proposed methodology</abstract>
+      </article>
+  </entry>
+  <entry id="qi2002integrated">
+      <article>
+         <author>Qi, X.</author>
+         <author>Khammash, M.H.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>American Control Conference (ACC), 2002</journal>
+         <title>Integrated parameter and control design</title>
+         <year>2002</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/qi2002integrated.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume>6</volume>
+         <number/>
+         <pages>4888-4893</pages>
+         <abstract>In this paper, the integrated parameter and control (IPC) problem is considered where the system parameters are assumed to enter into the state-space realization in a polynomial manner. Converging finite-dimensional sub-optimal problems are constructed and solved via a linear relaxation technique, whereby a global optimal solution to the IPC problem can be computed to any prescribed tolerance</abstract>
+      </article>
+  </entry>
+  <entry id="sebastian2002analysis">
+      <article>
+         <author>Sebastian, A.</author>
+         <author>Salapaka, MV</author>
+         <journal>International conference on Mathematical Theory for Networks and Systems</journal>
+         <title>Analysis of periodic solutions in tapping-mode AFM: An IQC approach</title>
+         <year>2002</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/sebastian2002analysis.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages/>
+         <abstract>The feedback perspective with the cantilever viewed as a linear system and the tip-sample interaction appearing as a nonlinear feedback is useful in analyzing AFM (Atomic Force Microscope) dynamics. Conditions for the existence and stability of periodic solutions for such a system when forced sinusoidally are obtained. These results are applied to the case where the AFM is operated in the tapping-mode. The near sinusoidal nature of periodic solutions is established by obtaining bounds on the higher harmonics. The concept of Integral Quadratic Constraints (IQC) is widely used in the analysis</abstract>
+      </article>
+  </entry>
+  <entry id="sahootrasientalerton">
+      <article>
+         <author>D. Sahoo, A. Sebastian, M. V. Salapaka</author>
+         <journal>Proceedings of the Allerton Conference</journal>
+         <title>Transient Detection of Atomic Force Microscopy</title>
+         <year>2002</year>
+         <month>October</month>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/missingLink.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher/>
+         <volume/>
+         <number/>
+         <pages/>
+         <abstract/>
+      </article>
+  </entry>
+  <entry id="yadav2005distributed">
+      <article>
+         <author>Yadav, V.</author>
+         <author>Voulgaris, PG</author>
+         <author>Salapaka, MV</author>
+         <journal>Intelligent Control, 2005. Proceedings of the 2005 IEEE International Symposium on, Mediterrean Conference on Control and Automation</journal>
+         <title>Distributed architectures and implementations of observer based controllers for performance optimization</title>
+         <year>2005</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/yadav2005distributed.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume/>
+         <number/>
+         <pages>1119-1124</pages>
+         <abstract>In this paper we address the problem of synthesizing controllers that have to be implemented distributively and have structure. The effect of sub-controller to sub-controller communication noise on stability and performance is considered. Using an observer based controller parameterization, we provide suitable stabilizing sub-controller architectures that directly take into account the effect of communication noise on performance. In particular, the overall performance optimization can be cast as a convex problem in the Youla-Kucera parameter Q. Similar results hold for banded controller structures, i.e., when there is also a delay in the subsystem to subsystem communication</abstract>
+      </article>
+  </entry>
+  <entry id="sahoo2005observer">
+      <article>
+         <author>Sahoo, D.R.</author>
+         <author>De Murti, T.</author>
+         <author>Salapaka, V.</author>
+         <journal>Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05. 44th IEEE Conference on</journal>
+         <title>Observer based imaging methods for Atomic Force Microscopy</title>
+         <year>2005</year>
+         <month/>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/sahoo2005observer.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume/>
+         <number/>
+         <pages>1185-1190</pages>
+         <abstract>In atomic force microscopy, bandwidth or resolution can be affected by active quality factor (Q) control. However, in existing methods the trade off between resolution and bandwidth remains inherent. Observer based Q control method provides greater flexibility in managing the tradeoff between resolution and bandwidth during imaging. It also facilitates theoretical analysis lacking in existing methods. Steady state signals like amplitude and phase are slowly varying variables that are suited to image low bandwidth content of the actual sample profile. Observer based transient imaging scheme with Q control has the promise of detecting high bandwidth content of the sample features during scanning. Transient detection also has the advantage of high sensitivity to small features</abstract>
+      </article>
+  </entry>
+  <entry id="materassi2005harmonic">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.</author>
+         <author>Basso, M.</author>
+         <journal>Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05. 44th IEEE Conference on</journal>
+         <title>Harmonic Bounds in Atomic Force Microscopy</title>
+         <year>2005</year>
+         <month/>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/materassi2005harmonic.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume/>
+         <number/>
+         <pages>8221-8226</pages>
+         <abstract>The paper addresses the problem of evaluating magnitude bounds on higher harmonics of the periodic tip oscillation in an Atomic Force Microscope (AFM). The suggested approach considers a class of nonlinearities well suited to the tip-sample interaction in AFMs, and reduces the bounding problem to an optimization problem. For a relaxation of the problem a solution in a closed form is provided and reduces the conservativeness of estimates existing in literature</abstract>
+      </article>
+  </entry>
+  <entry id="materassi2006less">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, M.</author>
+         <author>Basso, M.</author>
+         <journal>American Control Conference (ACC), 2006</journal>
+         <title>A less conservative circle criterion</title>
+         <year>2006</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/materassi2006less.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume/>
+         <number/>
+         <pages>4-pp</pages>
+         <abstract>A weak form of the circle criterion for Lur'e systems is stated. The result allows prove global boundedness of all system solutions. Moreover such a result can be employed to enlarge the set of nonlinearities for which the standard circle criterion can guarantee absolute stability</abstract>
+      </article>
+  </entry>
+  <entry id="yadav2006architectures">
+      <article>
+         <author>Yadav, V.</author>
+         <author>Voulgaris, PG</author>
+         <author>Salapaka, MV</author>
+         <journal>American Control Conference (ACC), 2006</journal>
+         <title>Architectures for distributed control for performance optimization in presence of sub-controller communication noise</title>
+         <year>2006</year>
+         <month/>
+         <catid>theory</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/yadav2006architectures.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume/>
+         <number/>
+         <pages>6-pp</pages>
+         <abstract>In this paper, we use state space approach to give a sufficient condition for internal stability of the closed loop system when the centralized stabilizing controller is implemented in a distributive manner. Using this condition, we show that the centralized stabilizing controller for a 2-nest system can be split into two sub-controllers without affecting the internal stability. The effect of sub-controller to sub-controller communication noise on the performance is considered along with the constraint on strength of sub-controller to sub-controller communication signal. We take an input-output approach. In a 2-nest case, we obtain a sufficient condition for splitting the stabilizing controller such that the overall performance optimization can be cast as a convex problem in the Youla-Kucera parameter Q. We also present an architecture for distributive implementation of banded structure controllers such that all closed loop maps are affine in Q</abstract>
+      </article>
+  </entry>
+  <entry id="materassi2006identification">
+      <article>
+         <author>Materassi, D.</author>
+         <author>Salapaka, MV</author>
+         <author>Basso, M.</author>
+         <journal>Decision and Control, 2006 45th IEEE Conference on</journal>
+         <title>Identification of Interaction Potentials in Dynamic Mode Atomic Force Microscopy</title>
+         <year>2006</year>
+         <month/>
+         <catid>afm</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/materassi2006identification.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>IEEE</publisher>
+         <volume/>
+         <number/>
+         <pages>3702-3705</pages>
+         <abstract>Atomic force microscopes (AFMs) are devices employed in many nanotechnology fields for nanoscale imaging and surface manipulation at the atomic level. The interaction potential between the cantilever tip and the sample is typically obtained using force curves. Each force curve involves an approach and retract phase and the entire process is relatively slow. In this paper we present the non-parametric identification of the tip-sample interaction potential that has the potential to significantly reduce the time when compared to force curves</abstract>
+      </article>
+  </entry>
+  <entry id="sehgal2007micro">
+      <article>
+         <author>Sehgal, H.</author>
+         <author>De, T.</author>
+         <author>Nettikadan, S.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>NanoScience+ Engineering</journal>
+         <title>Micro-manipulation using combined optical tweezers and atomic force microscope</title>
+         <year>2007</year>
+         <month/>
+         <catid>afm,optical tweezers</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/sehgal2007micro.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>International Society for Optics and Photonics</publisher>
+         <volume/>
+         <number/>
+         <pages>66441L-66441L</pages>
+         <abstract>In this paper, we report a novel approach to functionalize the tip of a micro-cantilever by selectively positioning a functionalized polystyrene bead using optical tweezers as a lever arm. We present a design that consists of an Atomic Force Microscope (AFM) combined with an optical tweezers setup to study specific interactions between complementary protein molecules. A BSA protein coated polystyrene bead, held stationary in an optical trap, is chemically grafted to AFM cantliever tip functionalized by the complementary protein- anti BSA. This arrangement also provides a flexible means of reversibly and irreversibly fusing polystyrene beads thermally at desired specified locations on the micro-cantilever, by heating the silicon tip with the focused laser beam of the optical tweezers. We use optical tweezers as a micro-manipulation tool for grafting pre-specified number of beads to cantilever in a controlled fashion as against the other widely used methods where an aggregate of molecules are chemically attached. Further, we study the changes in cantilever's resonant frequency and find it in good agreement with the expected change due to the additional bead mass. This study opens up opportunities in the area of biosensors by providing a method to standardize the calibration of chemically modified cantilevers</abstract>
+      </article>
+  </entry>
+  <entry id="sehgal2008systems">
+      <article>
+         <author>Sehgal, H.</author>
+         <author>Aggarwal, T.</author>
+         <author>Salapaka, M.V.</author>
+         <journal>NanoScience+ Engineering</journal>
+         <title>Systems approach to identification of feedback enhanced optical tweezers</title>
+         <year>2008</year>
+         <month/>
+         <catid>optical tweezers</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/sehgal2008systems.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <publisher>International Society for Optics and Photonics</publisher>
+         <volume/>
+         <number/>
+         <pages>703821-703821</pages>
+         <abstract>Feedback enhanced optical tweezers, based on Proportional and Integral (PI) control, are routinely used for increasing the stiffness of optical traps. Digital implementation of PI controller, using DSP or FPGA, enables easy maneuverability of feedback gains. In this paper, we report occurrence of a peak in the thermal noise power spectrum of the trapped bead as the proportional gain is cranked up, which imposes a limit on how stiff a trap can be made using position feedback. We explain the reasons for the deviant behavior in the power spectrum and present a mathematical formula to account for the anomaly, which is in very good agreement with the experimental observations. Further, we present a new method to do the closed loop system identification of feedback enhanced optical tweezers by applying a frequency chirp. The system model thus obtained greatly predicts the closed loop behavior of our feedback based optical tweezers system.</abstract>
+      </article>
+  </entry>
+  <entry id="salapaka2012brownian">
+      <article>
+         <author>Salapaka, Srinivasa</author>
+         <author>Rowchowdhury, Subhrajit</author>
+         <author>Salapaka, Murti</author>
+         <title>Modeling and role of feedback controlled stochastic ratchets in cellular transport</title>
+         <journal>Decision and Control (CDC), 2012 IEEE 51st Annual Conference on</journal>
+         <year>2012</year>
+         <pages>374-379</pages>
+         <volume/>
+         <number/>
+         <month/>
+         <catid>optical tweezers,theory,brownian ratchets,motor-proteins</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/salapaka2012brownian.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <abstract>This paper develops a model for Brownian ratchets to analyze the cases where the transport characteristics are affected by feedback mechanisms. One main application of this approach is to gain insights on the intracellular transport of motor proteins (such as Kinesin and Dynein) on a microtubular track, and on the role of feedback control on their transport. The model comprises of a stochastic system where the system switches between two stochastic differential systems, where the switching criteria is a state-dependent stochastic variable. Simulations demonstrate that the feedback mechanism helps achieve an increased average velocity of transport and corroborates the hypothesis that a motor protein can achieve higher speeds of transport by restricting or enabling attachment/detachment of ATP/ADP like molecules depending on conformational changes in the motor-protein.</abstract>
+      </article>
+  </entry>
+  <entry id="rowchowdhury2012maximizing">
+      <article>
+         <title>Maximizing transport in open loop for flashing ratchets</title>
+         <author>Rowchowdhury, Subhrajit</author>
+         <author>Salapaka, Srinivasa</author>
+         <author>Salapaka, Murti</author>
+         <journal>American Control Conference (ACC), 2012</journal>
+         <pages>3210-3215</pages>
+         <year>2012</year>
+         <volume/>
+         <number/>
+         <month/>
+         <catid>optical tweezers,theory,brownian ratchets,motor-proteins</catid>
+         <type>conference</type>
+         <pdflink>conferenceArticles/rowchowdhury2012maximizing.pdf</pdflink>
+         <highlights>conferenceArticles/missingLink.pdf</highlights>
+         <abstract>This paper studies open-loop operation of flashing ratchets, which refer to mechanisms that enable motion of particles under diffusion and possibly drag forces along a preferred direction through alternating turning on and off of specifically designed ratchet potentials. Flashing ratchets are used to model certain transport mechanisms of molecular motors and are of special interest to biologists and biophysicists. Mathematically they are are modeled by stochastic hybrid systems. For an open-loop design of on-times and off-times, we derive, under certain practical assumptions, an exact probability density function that reflects the spatial distribution of particles in space after the ratchet has flashed a given number of times, and find an optimal off-time that maximizes the transport velocity for a specific ratchet potential. Validation of the underlying assumptions is also presented. Simulation results show that these open-loop designs achieve as good or better average velocities for particles over certain well known existing feedback strategies in literature.</abstract>
+      </article>
+  </entry>
+</file>

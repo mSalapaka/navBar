@@ -2,6 +2,7 @@ import "./Content.css";
 import { AccordionComp } from "./accordionComp/AccordionComp.js";
 import { InfoTableWithImgComp} from "./InfoTableWithImgComp/InfoTableWithImgComp.js";
 import { Comp3 } from "./Comp3.js";
+import { PubTableComp } from "./PubTableComp/PubTableComp.js"
 export const Content = () => {
   return (
     <>
@@ -15,6 +16,9 @@ export const Content = () => {
         </div>
         <div id="Comp3">
           <Comp3></Comp3>
+        </div>
+        <div id="pubTableComp">
+          <PubTableComp></PubTableComp>
         </div>
       </div>
     </>
